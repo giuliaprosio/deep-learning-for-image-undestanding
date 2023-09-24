@@ -1,5 +1,0 @@
-The goal of this TP is to become acquainted with a well-known and commonly-used deep CNN network:
-VGG16 (Simonyan & Zisserman, 2015). Then, the method described by Chatfield et al. (2014) will be used
-with this network on the 15 Scene dataset. We will particularly look at the strategy to extract deep features
-thanks to a pre-trained network, and we will use these features in a classic classification scheme using linear
-SVM.

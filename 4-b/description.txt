@@ -1,0 +1,4 @@
+This second project work makes a step further the Bayesian Regression Model as the posterior and
+predictive distributions are too simple to be applied to Neural Networks.
+The first part of the project focuses on Bayesian Logistic Regression (BLR), the second Bayesian
+Neural Networks.

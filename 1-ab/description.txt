@@ -5,7 +5,6 @@ In order to do so we proceeded by steps, the first being the realization of a SI
 16x16 pixel patch of each picture contained in the dataset 12-Scenes.
 The first tool presented throughout the Practical Work was the Scale-Invariant Feature Transform
 (SIFT) - which is a local descriptor widely used in Image Classification as it is a feature extraction
-
 method that is invariant to scale and orientation of the images and robust to fluctuations of illumina-
 tion, noise and minor viewpoint changes in the images.
 

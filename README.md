@@ -82,9 +82,9 @@ questions and answers circa various analysis and theoretical aspects linked to t
 
 [Go to paper HW-1](https://github.com/giuliaprosio/deep-learning-for-image-undestanding/blob/main/HW1.pdf)
 
-[Go to paper HW-2]()
+[Go to paper HW-2](https://github.com/giuliaprosio/deep-learning-for-image-undestanding/blob/main/HW2.pdf)
 
-[Go to paper HW-3]()
+[Go to paper HW-3](https://github.com/giuliaprosio/deep-learning-for-image-undestanding/blob/main/HW3.pdf)
 
-[Go to paper HW-4]()
+[Go to paper HW-4](https://github.com/giuliaprosio/deep-learning-for-image-undestanding/blob/main/HW4.pdf)
 

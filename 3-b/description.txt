@@ -1,0 +1,3 @@
+The goal of this practical work is to study some techniques recently proposed to study the behaviour
+of CNNs, in order to better understand the reasoning behind the decisions made by the machine.
+They all use the gradient of an input image with respect to an output class.

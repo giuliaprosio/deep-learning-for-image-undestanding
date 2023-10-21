@@ -1,6 +1,7 @@
 Image Descriptors with SIFT and Bag of Words
   The purpose of the practical work 1-ab was to produce an algorithm able to classify images using
 visual descriptors.
+
 In order to do so we proceeded by steps, the first being the realization of a SIFT descriptor for each
 16x16 pixel patch of each picture contained in the dataset 12-Scenes.
 The first tool presented throughout the Practical Work was the Scale-Invariant Feature Transform

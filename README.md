@@ -82,6 +82,7 @@ questions and answers circa various analysis and theoretical aspects linked to t
 
 ## Project 1
 Here my paper analyzing the work on this first projct: [go to paper HW-1](https://github.com/giuliaprosio/deep-learning-for-image-undestanding/blob/main/HW1.pdf)
+### 1_ab Sift and BoW image descriptors
 
 Brief description [1_ab](https://github.com/giuliaprosio/deep-learning-for-image-undestanding/tree/main/1-ab) :
 Image Descriptors with SIFT and Bag of Words
@@ -111,6 +112,36 @@ The final step of this first practical work was to obtain a numerical representa
 that it can be easily classified. To do so we used a Bag of Words (BoW) algorithm, with which we
 were able to summarize all the local SIFT descriptors of the image into a global descriptor, with the
 help of the visual dictionary.
+
+### 1_c SVM
+
+Brief description [1_c](https://github.com/giuliaprosio/deep-learning-for-image-undestanding/tree/main/1-c) :
+
+In project 1-ab, we built a processing pipeline that transformed a RGB image into a compact
+representation that is more suited to image classification. Now, each image is encoded as a BoW vector
+describing in some way the presence (or absence) of p = 1000 patterns in the image. The vector of the i-th
+image, thus, is xi ∈ R
+p
+. Moreover, we know that each image can belong to one of 15 categories from our
+dataset. Therefore in this session, we will build the ultimate part of the pipeline, an image classifier that will
+takes as input the BoW vector ! A lot of different machine learning models can be used at that point, and
+we will use the popular SVM (Support Vector Machine).
+
+## Project 2
+Here my paper analyzing the work on this second projct: [go to paper HW-2](https://github.com/giuliaprosio/deep-learning-for-image-undestanding/blob/main/HW2.pdf)
+
+### 2_ab intro to Neural Networks
+Brief description [2_ab](https://github.com/giuliaprosio/deep-learning-for-image-undestanding/tree/main/2-ab) : 
+
+The goal of this practical work is to build a simple neural network and to become familiar with these models
+and how to train them with the backpropagation (or backpropagation) of the gradient.
+To do this, we will begin by theoretically studying a perceptron with a hidden layer and its learning
+procedure. We will then implement this network with the PyTorch library first on a toy problem to check
+that it is working correctly, then on the MNIST dataset.
+The site http://playground.tensorflow.org makes it possible to visualize the functioning and the
+learning of small neural networks
+
+
 
 
 [Go to paper HW-2](https://github.com/giuliaprosio/deep-learning-for-image-undestanding/blob/main/HW2.pdf)

@@ -1,3 +1,5 @@
+GANs:
+
 The aim of this last section of the Project Work was to study GANs, which focuses not on the
 classification of images but on their recreation.
 To do this, the Generative Adversarial Networks make use of two neural networks: the Generator, which

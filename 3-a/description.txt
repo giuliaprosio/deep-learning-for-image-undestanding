@@ -1,3 +1,5 @@
+Overcoming typical problems: Overfitting
+
 The goal of this first practical work is to overcome the over-fitting problem that we commonly encounter
 when training our model on a subset that has not enough data.
 Because of this the model would be too specialized on the training-set data and would not perform

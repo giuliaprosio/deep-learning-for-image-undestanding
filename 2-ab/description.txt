@@ -1,3 +1,5 @@
+Neural Netorks - first approach
+
 The goal of this practical work is to build a simple neural network and to become familiar with these models
 and how to train them with the backpropagation (or backpropagation) of the gradient.
 To do this, we will begin by theoretically studying a perceptron with a hidden layer and its learning

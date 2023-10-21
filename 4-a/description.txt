@@ -1,3 +1,5 @@
+Robustness analysis:
+
 The aspect we will focus on now is the necessity for the image classificators to be robust - specifically
 to have a reliable uncertainty estimation in the decision (classification) process.
 The goal of this project work and the next ones is to focus and deepen our knowledge regarding the

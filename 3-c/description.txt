@@ -1,3 +1,5 @@
+Domain adaptation:
+
 A big problem when training neural network is the difficulty of obtaining correctly labeled data. Domain adaptation tries to approach this problem by training on a labeled source set while simultaneously
 also being able to perform well on a similar target set of unlabeled data. The network consists of three
 parts, a feature extractor, a label predictor and a domain classifier. The feature extractor, as the

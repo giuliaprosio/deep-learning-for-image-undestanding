@@ -1,4 +1,4 @@
-GANs:
+## GAN
 
 The aim of this last section of the Project Work was to study GANs, which focuses not on the
 classification of images but on their recreation.
@@ -8,3 +8,11 @@ the Discriminator, another neural network whose aim is to distinguish real image
 by the Generator.
 By optimizing both networks we are able to produce false images that are indistinguishable from the
 source set.
+
+### Results 
+From a sequence of random noise cells the discriminator 
+and generator are used to create new images of numbers 
+
+![](../img/initial.png)
+![](../img/output.png)
+

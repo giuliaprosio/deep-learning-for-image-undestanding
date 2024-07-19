@@ -30,14 +30,20 @@ Brief description [Sift_and_BoW](./1-Image-Descriptors-Classification/1-Sift-and
 Brief description [SVM](./1-Image-Descriptors-Classification/2-SVM-Image-Classification/description.md) 
 
 
-## Project 2
-Here my paper analyzing the work on this second projct: [go to paper HW-2](https://github.com/giuliaprosio/deep-learning-for-image-undestanding/blob/main/HW2.pdf)
+## Project 2 - Neural Networks and Convolutional NN
+Here my paper analyzing the work on this second projct: [go to paper HW-2](./2-CNN/HW2.pdf). 
+
+In this projects we explore Neural Networks and Convolutional 
+Neural Networks. 
+In order to appreciate their work, we initially 
+manually calculate the steps followed by the NN, 
+and then gradually introduce PyTorch libraries. 
 
 ### 2_ab Intro to Neural Networks
-Brief description [2_ab](https://github.com/giuliaprosio/deep-learning-for-image-undestanding/tree/main/2-ab/description.txt) : 
+Brief description [NN](./2-CNN/2-ab/description.md). 
 
 ### 2_cd Intro to Convolutional NN
-Brief description [2_cd](https://github.com/giuliaprosio/deep-learning-for-image-undestanding/tree/main/2-cd/description.txt) : 
+Brief description [CNN](./2-CNN/2-CNN/description.md).
 
 ## Project 3 
 Here my paper analyzing the work on this third projct: [go to paper HW-3](https://github.com/giuliaprosio/deep-learning-for-image-undestanding/blob/main/HW3.pdf)

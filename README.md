@@ -76,20 +76,28 @@ Brief description [Uncertainty applications](./4-ML-analysis/3-uncertainty/descr
 
 
 ## Structure
-Each folder contains a brief description of the project and the google colab notebook.
-For each group of folders falling under the same number, which means that the topics encountered are linked to one another, there's a .pdf paper containing 
-questions and answers circa various analysis and theoretical aspects linked to the projects.
-
-## Project 1
-Here my paper analyzing the work on this first projct: [go to paper HW-1](https://github.com/giuliaprosio/deep-learning-for-image-undestanding/blob/main/HW1.pdf)
-
-### 1_ab Sift and BoW image descriptors
-Brief description [1_ab](https://github.com/giuliaprosio/deep-learning-for-image-undestanding/tree/main/1-ab/description.txt) :
+Each folder contains a description of the theories behind the project and the results obtained, along to the google colab notebook. 
 
 
-### 1_c SVM
-Brief description [1_c](https://github.com/giuliaprosio/deep-learning-for-image-undestanding/tree/main/1-c/description.txt) :
+## Project 1 - Image Descriptor and Classification
+Here my paper analyzing the work on this first projct: [go to paper HW-1](./1-Image-Descriptors-Classification/HW1.pdf)
 
+The first project is focused on the study and understanding of how images are coded and classified when using ML/DL techniques. 
+The most widely used descriptors are SIFT and the BoW
+techniques. SIFT is a feature extraction method invariant 
+to scale and orientation of picture, so that different 
+angles and scales depicting the same 
+figure are classified within the same class. 
+The Bag of Words technique allows us to summarize the 
+local SIFT descriptors of an image into a global descriptor, 
+with the help of a visual dictionary. 
+
+### 1_ab Image Descriptors: SIFT and BoW 
+Brief description [Sift_and_BoW](./1-Image-Descriptors-Classification/1-Sift-and-BoW/description.md) 
+
+
+### 1_c Image Classification: SVM
+Brief description [SVM](./1-Image-Descriptors-Classification/2-SVM-Image-Classification/description.md) 
 
 
 ## Project 2

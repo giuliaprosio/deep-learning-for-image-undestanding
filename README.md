@@ -45,11 +45,11 @@ Brief description [NN](./2-CNN/2-ab/description.md).
 ### 2_cd Intro to Convolutional NN
 Brief description [CNN](./2-CNN/2-CNN/description.md).
 
-## Project 3 
-Here my paper analyzing the work on this third projct: [go to paper HW-3](https://github.com/giuliaprosio/deep-learning-for-image-undestanding/blob/main/HW3.pdf)
+## Project 3 - CNNs and GANs
+Here my paper analyzing the work on this third projct: [go to paper HW-3](./3-CNN-and-GAN/HW3.pdf). 
 
-### 3_a Overfitting
-Brief description [3_a](https://github.com/giuliaprosio/deep-learning-for-image-undestanding/tree/main/3-a/description.txt) : 
+### 3_a Trasfer Learning through feature extraction from a CNN
+Brief description [Transfer Learning](./3-CNN-and-GAN/1-transfer-learning/description.md).  
 
 ### 3_b Visualizing CNN logic
 Brief description [3_b](https://github.com/giuliaprosio/deep-learning-for-image-undestanding/tree/main/3-b/description.txt) : 

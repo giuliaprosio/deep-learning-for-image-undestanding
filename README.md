@@ -114,7 +114,7 @@ Brief description [3_b](https://github.com/giuliaprosio/deep-learning-for-image-
 Brief description [3_c](https://github.com/giuliaprosio/deep-learning-for-image-undestanding/tree/main/3-c/description.txt) : 
 
 ### 3_d GANs
-Brief description [3_d](https://github.com/giuliaprosio/deep-learning-for-image-undestanding/tree/main/3-d/description.txt) : 
+Brief description [3_d](https://github.com/giuliaprosio/deep-learning-for-image-undestanding/tree/main/3-d/description.md) : 
 
 
 ## Project 4

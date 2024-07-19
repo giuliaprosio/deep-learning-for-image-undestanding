@@ -195,23 +195,23 @@ Brief description [3_a](https://github.com/giuliaprosio/deep-learning-for-image-
 Brief description [3_b](https://github.com/giuliaprosio/deep-learning-for-image-undestanding/tree/main/3-b/description.txt) : 
 
 ### 3_c Domain adaptation
-Brief description [3_c](https://github.com/giuliaprosio/deep-learning-for-image-undestanding/tree/main/3-c/description.txt) : 
+Brief description [Domain Adaptation](./3-CNN-and-GAN/3-domain-adaptation/description.md) : 
 
 ### 3_d GANs
-Brief description [3_d](https://github.com/giuliaprosio/deep-learning-for-image-undestanding/tree/main/3-d/description.md) : 
+Brief description [GANs](./3-CNN-and-GAN/4-GAN/description.md) : 
 
 
-## Project 4
-Here my paper analyzing the work on this fourth projct: [Go to paper HW-4](https://github.com/giuliaprosio/deep-learning-for-image-undestanding/blob/main/HW4.pdf)
+## Project 4 - Machine Learning Analysis
+Here my paper analyzing the work on this fourth projct: [Go to paper HW-4](./4-ML-analysis/HW4.pdf). 
 
 ### 4_a Robustness analysis
-Brief description [4_a](https://github.com/giuliaprosio/deep-learning-for-image-undestanding/tree/main/4-a/description.txt) : 
+Brief description [Robustness Analysis](./4-ML-analysis/1-robustness-analysis/description.md).
 
 ### 4_b Bayesian Regression Model
-Brief description [4_b](https://github.com/giuliaprosio/deep-learning-for-image-undestanding/tree/main/4-b/description.txt) : 
+Brief description [BRM](./4-ML-analysis/2-BRM/description.md).
 
 ### 4_c Uncertainty applications
-Brief description [4_c](https://github.com/giuliaprosio/deep-learning-for-image-undestanding/tree/main/4-c/description.txt) : 
+Brief description [Uncertainty applications](./4-ML-analysis/3-uncertainty/description.md).
 
 
 

@@ -1,6 +1,6 @@
-Uncertainty applications:
+## Uncertainty applications
 
-The purpose of this lab was estimating uncertainty for predictions our models do. In the first part we
+The purpose of this work is estimating uncertainty for predictions our models do. In the first part we
 tried to qualitatively evaluate the most uncertain images in our test set. To do that we built a leNet-5
 style network with dropout layers in order to implement Monte-Carlo dropout variational inference.
 We used three different mesures to compute the uncertanity of samples, those are variation-ratios,

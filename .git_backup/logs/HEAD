@@ -1,0 +1,12 @@
+0000000000000000000000000000000000000000 b5b5fa8d1e871ac6a957eb2f68e8f829a621efde giuliaprosio <82225149+giuliaprosio@users.noreply.github.com> 1697888037 +0200	clone: from https://github.com/giuliaprosio/deep-learning-for-image-undestanding.git
+b5b5fa8d1e871ac6a957eb2f68e8f829a621efde 4e04fe8a20beac55ef334ea080b669d5631afb27 giuliaprosio <82225149+giuliaprosio@users.noreply.github.com> 1697895050 +0200	commit: analysis project 1-ab
+4e04fe8a20beac55ef334ea080b669d5631afb27 34d4026704eff335030087389238cba3401f9211 giuliaprosio <82225149+giuliaprosio@users.noreply.github.com> 1697895660 +0200	commit: debugging neural network
+34d4026704eff335030087389238cba3401f9211 f7390d807713e0ffd29686bcbbf862b17207b3c0 giuliaprosio <82225149+giuliaprosio@users.noreply.github.com> 1697904904 +0200	commit: Organized projects structure
+f7390d807713e0ffd29686bcbbf862b17207b3c0 774c736a49cdeaf208aec82818b70e2500ca7137 giuliaprosio <82225149+giuliaprosio@users.noreply.github.com> 1720306181 +0200	commit: GAN
+774c736a49cdeaf208aec82818b70e2500ca7137 4f5fbe1a3f82652daa24de7defbc17790782fb7c giuliaprosio <82225149+giuliaprosio@users.noreply.github.com> 1721383241 +0200	commit: updated description of the GAN project
+4f5fbe1a3f82652daa24de7defbc17790782fb7c e2b5551694bbd3b4fd83471cc5a64174dd097cd2 giuliaprosio <82225149+giuliaprosio@users.noreply.github.com> 1721383345 +0200	commit: Updated link to the GAN description file
+e2b5551694bbd3b4fd83471cc5a64174dd097cd2 eeedc95c5ab32ad4f7e78ee82af0001db5b2b666 giuliaprosio <82225149+giuliaprosio@users.noreply.github.com> 1721399434 +0200	commit: Image Descriptors and Classification
+eeedc95c5ab32ad4f7e78ee82af0001db5b2b666 6473a9e4f985755943612bc5757c01c3dcb5d9ad giuliaprosio <82225149+giuliaprosio@users.noreply.github.com> 1721401007 +0200	commit: Neural Network study
+6473a9e4f985755943612bc5757c01c3dcb5d9ad 5cfab5b4cf77a3d179c1cb5c75d3c7ca002a74f7 giuliaprosio <82225149+giuliaprosio@users.noreply.github.com> 1721401336 +0200	commit: Intro to Convolutonal NN
+5cfab5b4cf77a3d179c1cb5c75d3c7ca002a74f7 d0d4f9503d0f904d028645f67f54a4b71707f113 giuliaprosio <82225149+giuliaprosio@users.noreply.github.com> 1721402976 +0200	commit: CNN and GANs
+d0d4f9503d0f904d028645f67f54a4b71707f113 8f7d7ffd09d3c7aed82dfab99f81445411090e84 giuliaprosio <82225149+giuliaprosio@users.noreply.github.com> 1721403847 +0200	commit: Classification Performance Analyss
